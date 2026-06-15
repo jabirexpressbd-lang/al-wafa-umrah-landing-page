@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#062f24"/><stop offset="1" stop-color="#0d5b43"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<circle cx="1240" cy="210" r="170" fill="#caa45d" opacity=".22"/>
+<circle cx="1320" cy="180" r="125" fill="#062f24"/>
+<path d="M0 720 C 260 640 360 760 640 680 C 920 600 1080 690 1600 560 L1600 900 L0 900 Z" fill="#caa45d" opacity=".18"/>
+<text x="100" y="360" font-size="74" font-family="Arial" font-weight="700" fill="#fff">Umrah Package</text>
+<text x="100" y="440" font-size="36" font-family="Arial" fill="#f7f1e6">Al Wafa Travels International</text>
+</svg>
