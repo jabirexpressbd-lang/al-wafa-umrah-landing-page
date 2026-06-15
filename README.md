@@ -1,13 +1,11 @@
-# Al Wafa Travels International - Umrah Landing Page V3
+# Al Wafa Travels International - Umrah Landing Page V4
 
 Updates:
-- PDF files are now in English to avoid broken Bengali font issues.
-- Standard and Premium package cards include: Direct Flight - Saudi Airlines.
-- Flight details section is now variant-based.
-- Hero rate section now shows Economy, Standard and Premium prices separately.
+- Hotel section redesigned as variant-wise slots, not paragraph style.
+- Passport size photo removed from Required Documents.
+- 07 July journey date highlighted strongly in hero section.
+- Floating WhatsApp button added.
+- Previous V3 PDF and flight updates are preserved.
 
 Deploy:
-1. Extract ZIP.
-2. Upload/replace all files in GitHub repository.
-3. Commit changes.
-4. Netlify will auto deploy.
+Extract ZIP, upload/replace all files in GitHub, then Commit changes. Netlify will auto deploy.
